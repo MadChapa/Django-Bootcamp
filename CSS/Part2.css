@@ -1,0 +1,21 @@
+body{
+background: url(https://dailytravelpill.com/wp-content/uploads/2020/11/saliara-beach-thassos-1.jpg);
+background-repeat: repeat;
+}
+
+div{
+  background-color: blue;
+  border-color: orange;
+  border-width: 2px;
+  border-style: double;
+
+}
+
+p{
+  color: yellow;
+}
+
+span{
+  background: red;
+  color: black;
+}

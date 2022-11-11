@@ -1,0 +1,28 @@
+body{
+  background-color: aquamarine;
+}
+h1{
+  border: 2px solid;
+}
+span{
+  color: yellow;
+}
+h2
+{
+  color: blue;
+}
+li a{
+  text-decoration: underline;
+}
+div textarea{
+  border-color:5px solid gray;
+  width: 800px;
+  height: 200px;
+}
+div h3
+{
+  color: blue;
+}
+div p{
+  color: yellow;
+}

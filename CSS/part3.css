@@ -1,0 +1,26 @@
+.firstDiv{
+  color: blue;
+
+}
+.secondDiv{   //for class
+  color: red;
+}
+
+#singledout{    //for id
+  color: green;
+  text-decoration: line-through;
+}
+
+*{            //for selecting all the elements
+  color: black;
+}
+h3 + ul{         // selects the ul element i.e placed immediately after h3 elements
+  border: 4px dotted purple;
+}
+li a{             //selects all anchor tag inside list element
+  color: red;
+}
+li a[href="https://www.facebook.com/"]{
+  color: blue;
+  border: 5px solid orange;
+}
