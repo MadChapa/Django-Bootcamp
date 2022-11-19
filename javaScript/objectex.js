@@ -1,13 +1,13 @@
 //Problem 1
 //
-// var employee={
-//   name:"Santosh Chapagain",
-//   job:"Programmer",
-//   age:24,
-//   namelenght:function(){
-//     console.log(this.name.length);
-//   }
-// }
+var employee={
+  name:"Santosh Chapagain",
+  job:"Programmer",
+  age:24,
+  namelenght:function(){
+    console.log(this.name.length);
+  }
+}
 
 
 //problem 2
